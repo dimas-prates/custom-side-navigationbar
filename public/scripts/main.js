@@ -1,1 +1,1 @@
-import IndexFunctions from "../scripts/index";
+// import IndexFunctions from "../scripts/index";
