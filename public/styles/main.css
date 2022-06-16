@@ -18,6 +18,6 @@
 }
 
 /* Fonts Awesome Fix */
-i.fa-solid {
+i.fa-solid::before {
     font-family: 'Font Awesome 6 Free';
 }
